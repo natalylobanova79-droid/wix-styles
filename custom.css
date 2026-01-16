@@ -1,6 +1,6 @@
 html[lang="ar"] body .font_2.wixui-rich-text__text{
   direction: rtl !important;
 }
-html[lang="ar"] body .fluid-columns-repeater p.font_7.wixui-rich-text__text{
+html[lang="ar"] body fluid-columns-repeater p.font_7.wixui-rich-text__text{
  direction: rtl !important;
 }
