@@ -21,3 +21,6 @@ html[lang="ar"] body .StylableButton2545352419__label{
 html[lang="ar"] body .font_3.wixui-rich-text__text{
   direction: rtl !important;
 }
+html[lang="ar"] body .StylableButton2545352419__container .StylableButton2545352419__label{
+  text-align: center;
+}
