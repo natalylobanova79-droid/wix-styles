@@ -18,3 +18,6 @@ html[lang="ar"] body .StylableButton2545352419__label{
   width: 100%;
   text-align: right;
 }
+html[lang="ar"] body .font_3.wixui-rich-text__text{
+  direction: rtl !important;
+}
