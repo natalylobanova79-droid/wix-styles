@@ -30,14 +30,14 @@ html[lang="ar"] body #comp-m2bt590p, html[lang="ar"] body #comp-m2btiu1b, html[l
 html[lang="ar"] body #comp-m5xmr5au .font_3.wixui-rich-text__text{
   direction: rtl !important;
 }
-html[lang="ar"] body  #SITE_FOOTER .font_9.wixui-rich-text__text{
+html[lang="ar"] body #SITE_FOOTER .font_9.wixui-rich-text__text{
   text-align: right !important;
 }
-html[lang="ar"] body  #SITE_FOOTER  #comp-klmlee8x *, html[lang="ar"] body  #SITE_FOOTER  #comp-klml99ce *{
+html[lang="ar"] body #SITE_FOOTER  #comp-klmlee8x *, html[lang="ar"] body  #SITE_FOOTER  #comp-klml99ce *{
   text-align: right !important;
   width:100%;
 }
-html[lang="ar"] body  #SITE_FOOTER #comp-klmlee8x, html[lang="ar"] body  #SITE_FOOTER .Vq4wYb{
+html[lang="ar"] body #SITE_FOOTER #comp-klmlee8x{
   width: 280px;
 }
 
