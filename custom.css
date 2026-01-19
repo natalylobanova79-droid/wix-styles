@@ -21,3 +21,6 @@ html[lang="ar"] body .KaEeLN .StylableButton2545352419__label{
 html[lang="ar"] body [id^="comp-m8sutaho__"] > .font_7.wixui-rich-text__text{
   text-align: left !important;
 }
+html[lang="ar"] body  #comp-m8ssk5lc3 .StylableButton2545352419__label.wixui-button__label{
+  direction: rtl !important;
+}
