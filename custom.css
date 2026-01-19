@@ -27,3 +27,6 @@ html[lang="ar"] body  #comp-m8ssk5lc3 .StylableButton2545352419__label.wixui-but
 html[lang="ar"] body #comp-m2bt590p, html[lang="ar"] body #comp-m2btiu1b, html[lang="ar"] body #comp-m2buga86, html[lang="ar"] body #comp-m2bv8mfp, html[lang="ar"] body #comp-m2bw4vx8{
   display: none !important;
 }
+html[lang="ar"] body #comp-m5xmr5au .font_3.wixui-rich-text__text{
+  direction: rtl !important;
+}
