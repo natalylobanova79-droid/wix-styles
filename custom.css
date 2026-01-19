@@ -24,3 +24,6 @@ html[lang="ar"] body [id^="comp-m8sutaho__"] > .font_7.wixui-rich-text__text{
 html[lang="ar"] body  #comp-m8ssk5lc3 .StylableButton2545352419__label.wixui-button__label{
   direction: rtl !important;
 }
+html[lang="ar"] body #comp-m2bt590p, html[lang="ar"] body #comp-m2btiu1b, html[lang="ar"] body #comp-m2buga86, html[lang="ar"] body #comp-m2bv8mfp{
+  display: none !important;
+}
