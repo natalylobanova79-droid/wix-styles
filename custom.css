@@ -42,6 +42,10 @@ html[lang="ar"] body #SITE_FOOTER #comp-lmq33lbt, html[lang="ar"] body #SITE_FOO
 html[lang="ar"] body #SITE_FOOTER #comp-loep3p4t, html[lang="ar"] body #SITE_FOOTER #comp-loep4hxp{
   width: 280px !important;
 }
+html[lang="ar"] body #SITE_FOOTER #comp-m935k4rd{width: 280px !important;}
 
-
-
+html[lang="ar"] body #SITE_FOOTER .MazNVa .j7pOnl {
+    display: inline-block;
+    overflow: hidden;
+    float: right;
+}
