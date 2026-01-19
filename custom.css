@@ -33,9 +33,12 @@ html[lang="ar"] body #comp-m5xmr5au .font_3.wixui-rich-text__text{
 html[lang="ar"] body  #SITE_FOOTER .font_9.wixui-rich-text__text{
   text-align: right !important;
 }
-html[lang="ar"] body  #SITE_FOOTER  #comp-klmlee8x * {
-    text-align: right !important;
-    width: 88%;
+html[lang="ar"] body  #SITE_FOOTER  #comp-klmlee8x *, html[lang="ar"] body  #SITE_FOOTER  #comp-klml99ce *{
+  text-align: right !important;
+  width:100%;
+}
+html[lang="ar"] body  #SITE_FOOTER .comp-lvqywt32.Vq4wYb{
+  width: 280px;
 }
 
 
