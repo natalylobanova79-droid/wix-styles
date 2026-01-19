@@ -30,3 +30,13 @@ html[lang="ar"] body #comp-m2bt590p, html[lang="ar"] body #comp-m2btiu1b, html[l
 html[lang="ar"] body #comp-m5xmr5au .font_3.wixui-rich-text__text{
   direction: rtl !important;
 }
+html[lang="ar"] body  #SITE_FOOTER .font_9.wixui-rich-text__text{
+  text-align: right !important;
+}
+html[lang="ar"] body  #SITE_FOOTER  #comp-klmlee8x * {
+    text-align: right !important;
+    width: 88%;
+}
+
+
+
