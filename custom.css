@@ -37,7 +37,7 @@ html[lang="ar"] body #SITE_FOOTER  #comp-klmlee8x *, html[lang="ar"] body  #SITE
   text-align: right !important;
   width:100%;
 }
-html[lang="ar"] body #SITE_FOOTER #comp-klmlee8x{
+html[lang="ar"] body #SITE_FOOTER #comp-klmlee8x, html[lang="ar"] body #SITE_FOOTER > .Vq4wYb{
   width: 280px;
 }
 
