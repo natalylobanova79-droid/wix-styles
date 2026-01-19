@@ -24,3 +24,6 @@ html[lang="ar"] body .font_3.wixui-rich-text__text{
 html[lang="ar"] body .StylableButton2545352419__container .StylableButton2545352419__label{
   text-align: center;
 }
+html[lang="ar"] body #comp-m8sst029_wrapper .font_7.wixui-rich-text__text{
+text-align: left !important;
+}
