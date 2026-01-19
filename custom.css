@@ -57,12 +57,13 @@ html[lang="ar"] body #SITE_FOOTER #comp-m7kg7qgs{
     width: 280px;
 }
 html[lang="ar"] body #SITE_FOOTER .VDJedC, .VDJedC svg {
-    bottom: 0;
+    ottom: 0;
     left: 0;
-    position: relative;
+    position: relative !important;
     right: 0;
-    top: 0;
-    width: auto;
+    top: -10px;
+    width: auto !important;
     height: 30px;
     float: right;
+    height: 20px;
 }
