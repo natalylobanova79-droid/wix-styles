@@ -114,4 +114,7 @@ html[lang="ar"] body #comp-m2vu7ofd #comp-m2vu72y4, html[lang="ar"] body #comp-m
     display: inline-block;
     clear: both;
 }
+html[lang="ar"] body #comp-m344f28g{
+  justify-self: end;
+}
 
