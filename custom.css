@@ -95,19 +95,21 @@ html[lang="ar"] body [data-mesh-id=comp-m3hiuizainlineContent-gridContainer]{
   clear: both;
 }
 html[lang="ar"] body  #comp-m2vu7ofd [data-mesh-id=comp-m2vu7ofdinlineContent-gridContainer], 
-html[lang="ar"] body  #comp-m2vu7pnt [data-mesh-id=comp-m2vu7pntinlineContent-gridContainer]{
+html[lang="ar"] body  #comp-m2vu7pnt [data-mesh-id=comp-m2vu7pntinlineContent-gridContainer],
+html[lang="ar"] body  #comp-m2vu8g15 [data-mesh-id=comp-m2vu7pntinlineContent-gridContainer]{
   display: inline-block;
   clear: both;
 }
 html[lang="ar"] body #comp-m2vu7ofd [data-mesh-id=comp-m2vu7ofdinlineContent-gridContainer] > #comp-m2vu31ip,
-html[lang="ar"] body #comp-m2vu7pnt [data-mesh-id=comp-m2vu7pntinlineContent-gridContainer] > #comp-m2vu7poz{
+html[lang="ar"] body #comp-m2vu7pnt [data-mesh-id=comp-m2vu7pntinlineContent-gridContainer] > #comp-m2vu7poz,
+html[lang="ar"] body #comp-m2vu8g15 [data-mesh-id=comp-m2vu7pntinlineContent-gridContainer] > #comp-m2vu8g2h {
   float:right;
 }
-html[lang="ar"] body #comp-m2vu7ofd #comp-m2vttvkc, html[lang="ar"] body  #comp-m2vu7pnt #comp-m2vu7pp14{
+html[lang="ar"] body #comp-m2vu7ofd #comp-m2vttvkc, html[lang="ar"] body  #comp-m2vu7pnt #comp-m2vu7pp14, html[lang="ar"] body #comp-m2vu8g2j3{
    width: 90%;
    float: left;
 }
-html[lang="ar"] body #comp-m2vu7ofd #comp-m2vu72y4, html[lang="ar"] body #comp-m2vu7pnt #comp-m2vu7pp23 {
+html[lang="ar"] body #comp-m2vu7ofd #comp-m2vu72y4, html[lang="ar"] body #comp-m2vu7pnt #comp-m2vu7pp23, html[lang="ar"] body  #comp-m2vu8g15 #comp-m2vu8g2k5{
     position: relative;
     display: inline-block;
     clear: both;
