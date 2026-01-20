@@ -94,18 +94,20 @@ html[lang="ar"] body [data-mesh-id=comp-m3hiuizainlineContent-gridContainer]{
   display: inline-block;
   clear: both;
 }
-html[lang="ar"] body  #comp-m2vu7ofd [data-mesh-id=comp-m2vu7ofdinlineContent-gridContainer]{
+html[lang="ar"] body  #comp-m2vu7ofd [data-mesh-id=comp-m2vu7ofdinlineContent-gridContainer], 
+html[lang="ar"] body  #comp-m2vu7pnt [data-mesh-id=comp-m2vu7pntinlineContent-gridContainer]{
   display: inline-block;
   clear: both;
 }
-html[lang="ar"] body #comp-m2vu7ofd [data-mesh-id=comp-m2vu7ofdinlineContent-gridContainer] > #comp-m2vu31ip{
+html[lang="ar"] body #comp-m2vu7ofd [data-mesh-id=comp-m2vu7ofdinlineContent-gridContainer] > #comp-m2vu31ip,
+html[lang="ar"] body #comp-m2vu7pnt [data-mesh-id=comp-m2vu7pntinlineContent-gridContainer] > #comp-m2vu7poz{
   float:right;
 }
-html[lang="ar"] body #comp-m2vu7ofd #comp-m2vttvkc{
+html[lang="ar"] body #comp-m2vu7ofd #comp-m2vttvkc, html[lang="ar"] body  #comp-m2vu7pnt #comp-m2vu7pp14{
    width: 90%;
    float: left;
 }
-html[lang="ar"] body #comp-m2vu7ofd #comp-m2vu72y4{
+html[lang="ar"] body #comp-m2vu7ofd #comp-m2vu72y4, html[lang="ar"] body #comp-m2vu7pnt #comp-m2vu7pp23 {
     position: relative;
     display: inline-block;
     clear: both;
