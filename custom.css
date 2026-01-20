@@ -90,3 +90,7 @@ html[lang="ar"] body #comp-m3hiuiza #comp-klkrhb3h{
     left: auto;
     right: 0;
 }
+html[lang="ar"] body [data-mesh-id=comp-m3hiuizainlineContent-gridContainer]{
+  display: inline-block;
+  clear: both;
+}
