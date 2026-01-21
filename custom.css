@@ -152,11 +152,11 @@ html[lang="ar"] body #comp-m4l4moyv, html[lang="ar"] body #comp-m4l4b7d2, html[l
   html[lang="ar"] body [data-mesh-id=comp-m5o0y4x6inlineContent-gridContainer] > [id="comp-m5o0y4y81"]{
     justify-self: end !important;
   }
- html[lang="ar"] body [data-mesh-id=comp-m5l5w4n9inlineContent-gridContainer] span.wixui-rich-text__text,
- html[lang="ar"] body [data-mesh-id=comp-m5l5x4x7inlineContent-gridContainer] span.wixui-rich-text__text,
- html[lang="ar"] body [data-mesh-id=comp-m5l5xwtlinlineContent-gridContainer] span.wixui-rich-text__text,
- html[lang="ar"] body [data-mesh-id=comp-m5o0hewfinlineContent-gridContainer] span.wixui-rich-text__text,
- html[lang="ar"] body [data-mesh-id=comp-m5o0y4x6inlineContent-gridContainer] span.wixui-rich-text__text{
+ html[lang="ar"] body [data-mesh-id=comp-m5l5w4n9inlineContent-gridContainer] h3.wixui-rich-text__text span.wixui-rich-text__text,
+ html[lang="ar"] body [data-mesh-id=comp-m5l5x4x7inlineContent-gridContainer] h3.wixui-rich-text__text span.wixui-rich-text__text,
+ html[lang="ar"] body [data-mesh-id=comp-m5l5xwtlinlineContent-gridContainer] h3.wixui-rich-text__text span.wixui-rich-text__text,
+ html[lang="ar"] body [data-mesh-id=comp-m5o0hewfinlineContent-gridContainer] h3.wixui-rich-text__text span.wixui-rich-text__text,
+ html[lang="ar"] body [data-mesh-id=comp-m5o0y4x6inlineContent-gridContainer] h3.wixui-rich-text__text span.wixui-rich-text__text{
    display: inline-block;
    margin-right: 16px;
  }
