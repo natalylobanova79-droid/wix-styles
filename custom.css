@@ -117,7 +117,9 @@ html[lang="ar"] body #comp-m2vu7ofd #comp-m2vu72y4, html[lang="ar"] body #comp-m
 html[lang="ar"] body #comp-m344f28g{
   justify-self: end;
 }
-html[lang="ar"] body #comp-m4l4moz1 span.wixui-rich-text__text:before {
+html[lang="ar"] body #comp-m4l4moz1 span.wixui-rich-text__text:before, html[lang="ar"] body #comp-m4l4b7dp span.wixui-rich-text__text:before,
+html[lang="ar"] body #comp-m4l4coee span.wixui-rich-text__text:before, html[lang="ar"] body #comp-m4l4nbfy span.wixui-rich-text__text:before  {
     content: "✓";
-    margin-left: 6px;
+    margin-left: 20px;
+    color: #0166FF;
 }
