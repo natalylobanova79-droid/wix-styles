@@ -127,7 +127,8 @@ html[lang="ar"] body #comp-m4l4moyv, html[lang="ar"] body #comp-m4l4b7d2, html[l
   display: none;
 }
 @media (min-width: 320px) and (max-width: 767px){
-  html[lang="ar"] body #comp-m4l4nbfy span.wixui-rich-text__text:before {
+  html[lang="ar"] body #comp-m4l4moz1 span.wixui-rich-text__text:before, html[lang="ar"] body #comp-m4l4b7dp span.wixui-rich-text__text:before,
+  html[lang="ar"] body #comp-m4l4coee span.wixui-rich-text__text:before, html[lang="ar"] body #comp-m4l4nbfy span.wixui-rich-text__text:before{
       margin-right: 34px;
   }
   html[lang="ar"] body #bgLayers_comp-lwetayuh1 .Z_l5lU{
