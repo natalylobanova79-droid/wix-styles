@@ -148,7 +148,7 @@ html[lang="ar"] body #comp-m4l4moyv, html[lang="ar"] body #comp-m4l4b7d2, html[l
   html[lang="ar"] body [data-mesh-id=comp-m5l5w4n9inlineContent-gridContainer] > [id="comp-m5l5w4os"]{
     justify-self: end !important;
   }
- html[lang="ar"] body [data-mesh-id=comp-m5l5w4n9inlineContent-gridContainer] spa.wixui-rich-text__text{
+ html[lang="ar"] body [data-mesh-id=comp-m5l5w4n9inlineContent-gridContainer] span.wixui-rich-text__text{
    display: inline-block;
    margin-right: 32px;
  }
