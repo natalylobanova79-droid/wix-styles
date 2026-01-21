@@ -139,7 +139,7 @@ html[lang="ar"] body #comp-m4l4moyv, html[lang="ar"] body #comp-m4l4b7d2, html[l
     text-align: right !important;
   }
   html[lang="ar"] body [data-mesh-id=comp-m5l3q6z0inlineContent-gridContainer]{direction: rtl;}
-  html[lang="ar"] body  #comp-ldj91l6s span.wixui-rich-text__text{
+  html[lang="ar"] body  #comp-ldj91l6s span.wixui-rich-text__text, html[lang="ar"] body  #comp-ldj91l73 span.wixui-rich-text__text{
     text-align: right !important;
     direction: rtl;
     display: block;
