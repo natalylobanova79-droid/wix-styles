@@ -191,3 +191,6 @@ html[lang="ar"] body #comp-m5o4vxaa2{
 html[lang="ar"] body #comp-m5o1pl7n{
   display: none;
 }
+html[lang="ar"] body  [data-mesh-id=comp-m6ar4b0k1inlineContent-gridContainer] > [id="comp-m6ar4b0s1"]{
+   direction: rtl;
+}
