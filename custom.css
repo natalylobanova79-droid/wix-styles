@@ -185,3 +185,6 @@ html[lang="ar"] body [data-mesh-id=comp-m5l5w4n9inlineContent-gridContainer] h3.
     justify-self: end;
   }
 }
+html[lang="ar"] body #comp-m5o4vxaa2{
+  direction: rtl;
+}
