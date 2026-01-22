@@ -204,7 +204,9 @@ html[lang="ar"] body #comp-m6arl08t1__item-j9r9uz7e .font_2.wixui-rich-text__tex
     direction: rtl !important;
     margin-right: 80px;
 }
-
+html[lang="ar"] body [data-mesh-id=comp-m6as1snzinlineContent-gridContainer] > [id="comp-m6as1spr"], html[lang="ar"] body [data-mesh-id=comp-m6as1sominlineContent-gridContainer] > [id="comp-m6as1sqb3"]{
+   justify-self: end;
+}
 
 
 
