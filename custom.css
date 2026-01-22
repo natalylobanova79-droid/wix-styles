@@ -198,7 +198,8 @@ html[lang="ar"] body  [data-mesh-id=comp-m6ar4b0k1inlineContent-gridContainer] >
    justify-self: end;
    margin-right: 16px;
  }
-html[lang="ar"] body #comp-m6ar4b1h__item1 .font_2.wixui-rich-text__text, html[lang="ar"] body #comp-m6ar4b1h__item-j9r9uz7e  .font_2.wixui-rich-text__text{
+html[lang="ar"] body #comp-m6ar4b1h__item1 .font_2.wixui-rich-text__text, html[lang="ar"] body #comp-m6ar4b1h__item-j9r9uz7e  .font_2.wixui-rich-text__text
+html[lang="ar"] body #comp-m6ar4b1h__item-knn4fvlg .font_2.wixui-rich-text__text{
     direction: rtl !important;
     margin-right: 80px;
 }
