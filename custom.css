@@ -194,7 +194,7 @@ html[lang="ar"] body #comp-m5o1pl7n{
 html[lang="ar"] body  [data-mesh-id=comp-m6ar4b0k1inlineContent-gridContainer] > [id="comp-m6ar4b0s1"]{
  justify-self: end;
 }
- html[lang="ar"] body [data-mesh-id^=comp-m6ar4b1b11__] > [id^="comp-m6arhupo__"]{
+html[lang="ar"] body [data-mesh-id^=comp-m6ar4b1b11__] > [id^="comp-m6arhupo__"], html[lang="ar"] body [data-mesh-id^=comp-m6arl08q__] > [id^="comp-m6arl08v7__"]{
    justify-self: end;
    margin-right: 16px;
  }
