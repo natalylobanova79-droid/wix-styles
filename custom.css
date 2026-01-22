@@ -181,4 +181,7 @@ html[lang="ar"] body [data-mesh-id=comp-m5l5w4n9inlineContent-gridContainer] h3.
      display: inline-block;
      margin-right: 16px;
    }
+  html[lang="ar"] body [data-mesh-id=comp-m5o4qcrbinlineContent-gridContainer] > [id="comp-m5o4k57q1"]{
+    justify-self: end;
+  }
 }
