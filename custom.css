@@ -1,7 +1,8 @@
 html[lang="ar"] body .font_2.wixui-rich-text__text{
   direction: rtl !important;
 }
-html[lang="ar"] body .font_7.wixui-rich-text__text, html[lang="ar"] body #comp-m2vuddp44, html[lang="ar"] body #comp-m3447ev36{
+html[lang="ar"] body .font_7.wixui-rich-text__text, html[lang="ar"] body #comp-m2vuddp44, html[lang="ar"] body #comp-m3447ev36,
+html[lang="ar"] body #comp-m5l3q6za{
  direction: rtl !important;
 }
 html[lang="ar"] body .font_8.wixui-rich-text__text{
