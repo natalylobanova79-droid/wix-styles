@@ -229,3 +229,6 @@ html[lang="ar"] body  #comp-lxll3v1l__item-knn4fvlg .font_2.wixui-rich-text__tex
   right: 30%;
   position: relative;
 }
+html[lang="ar"] body [data-mesh-id=comp-lxvh6thbinlineContent-gridContainer] .VDJedC{
+  display: none;
+}
