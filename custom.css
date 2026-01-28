@@ -237,6 +237,7 @@ html[lang="ar"] body [data-mesh-id=comp-lxvh6thbinlineContent-gridContainer] .fo
   margin-left: 20px;
   display: inline-block;
 }
-html[lang="ar"] body  #comp-lxll3v3f8 .font_7.wixui-rich-text__text{
+html[lang="ar"] body  #comp-lxll3v3f8 .font_7.wixui-rich-text__text, html[lang="ar"] body #comp-lxlrohs55 .font_7.wixui-rich-text__text,
+html[lang="ar"] body  #comp-lxll3v2z6 .font_7.wixui-rich-text__text, html[lang="ar"] body  #comp-lxll3v2z6 #comp-mkwibh35 .font_7.wixui-rich-text__text{
   text-align: right !important;
 }
