@@ -220,4 +220,6 @@ html[lang="ar"] body #comp-m6as1spt1 .font_3.wixui-rich-text__text, html[lang="a
  html[lang="ar"] body  #comp-lxll3v0y4{
    width: 220px;
  }
-
+html[lang="ar"] body  [data-mesh-id^=comp-lxll3v1h3__] > [id^="comp-lxll3v1i__"]{
+  justify-self: end;
+}
