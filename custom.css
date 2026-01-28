@@ -242,3 +242,8 @@ html[lang="ar"] body  #comp-lxll3v2z6 .font_7.wixui-rich-text__text, html[lang="
 html[lang="ar"] body  #comp-mkwibh35 .font_7.wixui-rich-text__text{
   text-align: right !important;
 }
+html[lang="ar"] body #comp-lxll3v2y9 .font_7.wixui-rich-text__text, html[lang="ar"] body  #comp-mkwibh13 .font_7.wixui-rich-text__text,
+html[lang="ar"] body #comp-mkwibh34 .font_7.wixui-rich-text__text, html[lang="ar"] body #comp-lxll3v3f1 .font_7.wixui-rich-text__text,
+html[lang="ar"] body #comp-lxlrohs45 .font_7.wixui-rich-text__text{
+  text-align: left !important;
+}
