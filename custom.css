@@ -238,5 +238,5 @@ html[lang="ar"] body [data-mesh-id=comp-lxvh6thbinlineContent-gridContainer] .fo
   display: inline-block;
 }
 html[lang="ar"] body  #comp-lxll3v3f8 .font_7.wixui-rich-text__text{
-  text-align: right;
+  text-align: right !important;
 }
