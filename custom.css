@@ -255,4 +255,7 @@ html[lang="ar"] body #comp-lxll3v3l1{
   html[lang="ar"] body #comp-lxll3v0l2{
    direction: rtl !important;
   }
+    html[lang="ar"] body #comp-lxll3v0x .font_7.wixui-rich-text__text{
+      text-align: right !important;
+    }
 }
