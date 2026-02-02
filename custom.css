@@ -248,6 +248,11 @@ html[lang="ar"] body #comp-mkwibh34 .font_7.wixui-rich-text__text, html[lang="ar
 html[lang="ar"] body #comp-lxlrohs45 .font_7.wixui-rich-text__text{
   text-align: left !important;
 }
-html[lang="ar"] body #comp-lxll3v3l1, html[lang="ar"] body #comp-lxll3v0l2{
+html[lang="ar"] body #comp-lxll3v3l1{
    direction: rtl !important;
+}
+@media (min-width: 320px) and (max-width: 767px){
+  html[lang="ar"] body #comp-lxll3v0l2{
+   direction: rtl !important;
+  }
 }
