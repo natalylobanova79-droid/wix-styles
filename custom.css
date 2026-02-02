@@ -279,3 +279,7 @@ html[lang="ar"] body #comp-mkqxfaqw [data-mesh-id=comp-mkqxfaqwinlineContent-gri
 html[lang="ar"] body #comp-mkuz2fo82{
   direction: rtl;
 }
+html[lang="ar"] body #comp-mkv3ditl [data-mesh-id=comp-mkv3ditlinlineContent-gridContainer] > [id="comp-mkv3ditv"]{
+  justify-self: end;
+  direction: rtl;
+}
