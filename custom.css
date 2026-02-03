@@ -271,6 +271,10 @@ html[lang="ar"] body #comp-lxll3v3l1{
     justify-self: end;
     margin-right:11%;
   }
+  html[lang="ar"] body  #comp-lmp75vpu h2{
+    direction: rtl !important;
+    text-align: right !important;
+  }
 }
 html[lang="ar"] body #comp-mkqxfaqw [data-mesh-id=comp-mkqxfaqwinlineContent-gridContainer] > [id="comp-mkqxfara"]{
   justify-self: end;
