@@ -292,3 +292,6 @@ html[lang="ar"] body #comp-mkvb46l2{
   justify-self: end;
   direction: rtl;
 }
+html[lang="ar"] body [data-mesh-id=comp-mkvbg9ifinlineContent-gridContainer] .font_2.wixui-rich-text__text{
+  font-weight: bold;
+}
