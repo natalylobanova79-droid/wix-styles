@@ -299,3 +299,6 @@ html[lang="ar"] body  #comp-lu14a9lp, html[lang="ar"] body  #comp-lqcipmp6, html
   justify-self: end;
   direction: rtl !important;
 }
+html[lang="ar"] body  #comp-lu14a9lp{
+  margin-top: - 40px;
+}
