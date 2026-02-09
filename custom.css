@@ -302,3 +302,4 @@ html[lang="ar"] body  #comp-lu14a9lp, html[lang="ar"] body  #comp-lqcipmp6, html
 html[lang="ar"] body  #comp-lu14a9lp{
   margin-top: -40px;
 }
+html[lang="ar"] body [data-mesh-id^=comp-m4cfio0u__] > [id^="comp-m4cfezed3__"]{ justify-self: end;}
