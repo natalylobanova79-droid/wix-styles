@@ -314,6 +314,9 @@ html[lang="ar"] body #comp-m4cilwwi2 h3:before, html[lang="ar"] body #comp-m4cip
     margin-left: 20px;
     color: #0166FF;
 }
-html[lang="ar"] body [data-mesh-id=comp-m4cjafh4inlineContent-gridContainer] > [id="comp-m4cjafjq"]{justify-self: end;}
+html[lang="ar"] body [data-mesh-id=comp-m4cjafh4inlineContent-gridContainer] > [id="comp-m4cjafjq"],
+[data-mesh-id=comp-m4cjafhninlineContent-gridContainer] > [id="comp-m4cjafk1"],
+[data-mesh-id=comp-m4cjafhyinlineContent-gridContainer] > [id="comp-m4cjafkc"],
+[data-mesh-id=comp-m4cjafi8inlineContent-gridContainer] > [id="comp-m4cjafkj4"]{justify-self: end;}
 html[lang="ar"] body #comp-m4clatdd{display:none;}
 html[lang="ar"] body #comp-m4h3hj2g .font_7.wixui-rich-text__text {margin-right:8%;}
