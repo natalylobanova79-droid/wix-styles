@@ -323,3 +323,6 @@ html[lang="ar"] body #comp-m4clatdd, html[lang="ar"] body #comp-m4cld1hq, html[l
 html[lang="ar"] body #comp-m4h3hj2g .font_7.wixui-rich-text__text {margin-right:8%;}
 html[lang="ar"] body #comp-mkyapkzc, html[lang="ar"] body #comp-mkyapkzm5, html[lang="ar"] body #comp-mkyapkzx6, html[lang="ar"] body #comp-mkyapl03{text-align:left;}
 html[lang="ar"] body #comp-m4cpk3um4{direction: rtl !important;}
+@media (min-width: 320px) and (max-width: 767px){
+ html[lang="ar"] body #comp-m4cfax71{ direction: rtl !important;}
+}
