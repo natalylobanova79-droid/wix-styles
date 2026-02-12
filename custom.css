@@ -360,5 +360,7 @@ html[lang="ar"] body [data-mesh-id=comp-m4hczdkfinlineContent-gridContainer] > [
 }
 html[lang="ar"] body #comp-m4b2zy3x [data-mesh-id^=comp-m4b2zy426__] > [id^="comp-m4b2zy432__"], #comp-m4b2zy3x html[lang="ar"] body [data-mesh-id^=comp-m4b2zy426__] > interact-element > [id^="comp-m4b2zy432__"]{
    justify-self: end;
-   left: 0;
+}
+html[lang="ar"] body #comp-m4b2zy3x [data-mesh-id^=comp-m4b2zy426__] > [id^="comp-m4b2zy464__"], html[lang="ar"] body #comp-m4b2zy3x [data-mesh-id^=comp-m4b2zy426__] > interact-element > [id^="comp-m4b2zy464__"]{
+  left: 0;
 }
