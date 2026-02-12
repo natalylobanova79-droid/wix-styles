@@ -369,4 +369,5 @@ html[lang="ar"] body #comp-m4headvv h3:before{
   content: "✓";
   margin-left: 20px;
   display: inline-block;
+  color: #0166FF;
 }
