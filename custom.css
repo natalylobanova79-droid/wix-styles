@@ -328,4 +328,7 @@ html[lang="ar"] body #comp-m4cpk3um4{direction: rtl !important;}
  html[lang="ar"] body #comp-m4cfezef__item-knn4fvlg .font_2.wixui-rich-text__text{
    margin-right: 20%;
  }
+  html[lang="ar"] body [data-mesh-id=comp-m4cjafh4inlineContent-gridContainer] > [id="comp-m4cjafjt1"]{
+    left: 30px;
+  }
 }
