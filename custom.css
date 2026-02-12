@@ -365,3 +365,8 @@ html[lang="ar"] body #comp-m4b2zy3x [data-mesh-id^=comp-m4b2zy426__] > [id^="com
   left: 0;
 }
 html[lang="ar"] body  #comp-m4hngqmh .VDJedC{display:none;}
+html[lang="ar"] body #comp-m4headvv h3:before{
+  content: "✓";
+  margin-left: 20px;
+  display: inline-block;
+}
