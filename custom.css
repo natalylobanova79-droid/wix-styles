@@ -390,4 +390,7 @@ html[lang="ar"] body #comp-m4hgrfs9{ direction: rtl !important;}
     justify-self: end;
     left: -20px;
  }
+  html[lang="ar"] body  [data-mesh-id^=comp-m4b2zy40__] > [id^="comp-m4b2zy464__"]{
+    left: 40px;
+  }
 }
