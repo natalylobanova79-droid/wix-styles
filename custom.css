@@ -385,3 +385,9 @@ html[lang="ar"] body [data-mesh-id=comp-m4hf9df14inlineContent-gridContainer] > 
 html[lang="ar"] body [data-mesh-id=comp-m4hf9df39inlineContent-gridContainer] > [id="comp-m4hf9df57"],
 html[lang="ar"] body [data-mesh-id=comp-m4hfbmwpinlineContent-gridContainer] > [id="comp-m4hfbmxn5"]{left: 20px;}
 html[lang="ar"] body #comp-m4hgrfs9{ direction: rtl !important;}
+@media (min-width: 320px) and (max-width: 767px){
+ html[lang="ar"] body [data-mesh-id^=comp-m4b2zy40__] > [id^="comp-m4b2zy432__"]{
+    justify-self: end;
+    left: -20px;
+ }
+}
