@@ -408,3 +408,6 @@ html[lang="ar"] body #comp-m4hgrfs9{ direction: rtl !important;}
    justify-self: end;
     left: 0;
  }
+html[lang="ar"] body  [data-mesh-id^=comp-m4r7bsec2__] > [id^="comp-m4r7bsem__"]{
+    left: 15px;
+}
