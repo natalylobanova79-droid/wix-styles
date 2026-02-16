@@ -449,4 +449,8 @@ html[lang="ar"] body #comp-m4rfno54{direction: rtl !important;}
     justify-self: center;
     left: 0;
   }
+  html[lang="ar"] body #comp-m4r76giy .font_7.wixui-rich-text__text{
+    text-align: right  !important;
+    direction: rtl !important;
+  }
 }
