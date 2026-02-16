@@ -404,3 +404,7 @@ html[lang="ar"] body #comp-m4hgrfs9{ direction: rtl !important;}
   }
 }
  html[lang="ar"] body #comp-m4r69mzx{width:220px;}
+ html[lang="ar"] body [data-mesh-id^=comp-m4r7bsec2__] > [id^="comp-m4r7bseh__"]{
+   justify-self: end;
+    left: 0;
+ }
