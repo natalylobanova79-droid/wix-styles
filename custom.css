@@ -444,3 +444,6 @@ html[lang="ar"] body [data-mesh-id=comp-m4rd0rl28inlineContent-gridContainer] > 
 }
 html[lang="ar"] body #comp-mkyankfp, html[lang="ar"] body #comp-mkyankg07, html[lang="ar"] body #comp-mkyankg6, html[lang="ar"] body #comp-mkyankg07{text-align:left;}
 html[lang="ar"] body #comp-m4rfno54{direction: rtl !important;}
+@media (min-width: 320px) and (max-width: 767px){
+  html[lang="ar"] body #comp-m4r69mzq h1{text-align: right !important;}
+}
