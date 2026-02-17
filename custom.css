@@ -460,7 +460,7 @@ html[lang="ar"] body #comp-m4rfno54{direction: rtl !important;}
    html[lang="ar"] body #comp-mkyankfv2 p, html[lang="ar"] body #comp-mkyankg13 p, html[lang="ar"] body #comp-mkyankg66 p, html[lang="ar"] body #comp-mkyankfw p {text-align: right !important;}
 }
 html[lang="ar"] body #comp-m2vu31ip, html[lang="ar"] body #comp-m2vu7poz, html[lang="ar"] body #comp-m2vu8g2h{display: none;}
-html[lang="ar"] body #comp-m2vttvkc .font_2.wixui-rich-text__text, html[lang="ar"] body #comp-m2vu7pp14 .font_2.wixui-rich-text__text, html[lang="ar"] body #comp-m2vu8g2j3 .font_2.wixui-rich-text__text{ 
+html[lang="ar"] body #comp-m2vttvkc .font_2.wixui-rich-text__text:before, html[lang="ar"] body #comp-m2vu7pp14 .font_2.wixui-rich-text__text:before, html[lang="ar"] body #comp-m2vu8g2j3 .font_2.wixui-rich-text__text:before{ 
    content: "✓";
    margin-left: 20px;
    display: inline-block;
