@@ -470,3 +470,6 @@ html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [
 html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltba4r3"], html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltba4r3"]{
   justify-self: end;
 }
+html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb3qmr"], [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb4l4y"]{
+  left: -10px;
+}
