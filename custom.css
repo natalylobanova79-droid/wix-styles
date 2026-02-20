@@ -483,3 +483,8 @@ html[lang="ar"] body [data-mesh-id=comp-mlth38u3inlineContent-gridContainer] > [
 html[lang="ar"] body [data-mesh-id=comp-mltgztusinlineContent-gridContainer] > [id="comp-mltgztv62"], html[lang="ar"] body [data-mesh-id=comp-mlth275ainlineContent-gridContainer] > [id="comp-mlth275n"]{
   justify-self: end;
 }
+html[lang="ar"] body [data-mesh-id=comp-mltgzer1inlineContent-gridContainer] > [id="comp-mltgvl79"], 
+html[lang="ar"] body [data-mesh-id=comp-mlth11rbinlineContent-gridContainer] > [id="comp-mlth11rm1"], 
+html[lang="ar"] body [data-mesh-id=comp-mlth38u3inlineContent-gridContainer] > [id="comp-mlth38uc2"],
+html[lang="ar"] body [data-mesh-id=comp-mltgztusinlineContent-gridContainer] > [id="comp-mltgztv5"], 
+html[lang="ar"] body [data-mesh-id=comp-mlth275ainlineContent-gridContainer] > [id="comp-mlth275j"]{left:0;}
