@@ -497,7 +497,7 @@ html[lang="ar"] body [data-mesh-id=comp-mlth275ainlineContent-gridContainer] > [
      width: 48px;
      height: 48px;
    }
-  html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb3qmr"]{
-    left: 0;
+  html[lang="ar"] body #comp-mltb3qmr, html[lang="ar"] body #comp-mltb7oeg, html[lang="ar"] body #comp-mltba4r51{
+    left: 10px;
   }
 }
