@@ -488,7 +488,7 @@ html[lang="ar"] body [data-mesh-id=comp-mlth11rbinlineContent-gridContainer] > [
 html[lang="ar"] body [data-mesh-id=comp-mlth38u3inlineContent-gridContainer] > [id="comp-mlth38uc2"],
 html[lang="ar"] body [data-mesh-id=comp-mltgztusinlineContent-gridContainer] > [id="comp-mltgztv5"], 
 html[lang="ar"] body [data-mesh-id=comp-mlth275ainlineContent-gridContainer] > [id="comp-mlth275j"]{left:0;}
-html[lang="ar"] body #comp-mlthpeza6 .font_0.wixui-rich-text__text{
+html[lang="ar"] body #comp-mlthpeza6 .font_0.wixui-rich-text__text, html[lang="ar"] body #comp-mlt8b456 .font_7.wixui-rich-text__text{
   direction: rtl;
   text-align: right !important;
 }
