@@ -471,6 +471,9 @@ html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [
   justify-self: end;
   margin-top: -10px;
 }
-html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb3qmr"], [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb4l4y"]{
+html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb3qmr"], html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb4l4y"], 
+html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb7oeg"], html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb7oeg"],
+html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb7oei"], html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb7oeg"],
+{
   left: -10px;
 }
