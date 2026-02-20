@@ -467,7 +467,6 @@ html[lang="ar"] body #comp-m2vttvkc .font_2.wixui-rich-text__text:before, html[l
    color: #0166FF;
 }
 html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb2jem"], html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltb7oe8"], 
-html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltba4r3"], html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltba4r51"],
-html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltba4r3"]{
+html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltba4r3"], html[lang="ar"] body [data-mesh-id=comp-mltbfib5inlineContent-gridContainer] > [id="comp-mltba4r3"]{
   justify-self: end;
 }
