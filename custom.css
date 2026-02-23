@@ -510,5 +510,5 @@ html[lang="ar"] body [data-mesh-id=comp-mlth275ainlineContent-gridContainer] > [
     text-align: right !important;
   }
   html[lang="ar"] body #comp-mlthpeza6{direction: rtl;}
-  html[lang="ar"] body #comp-mlyv2cwp1 .font_0.wixui-rich-text__text { direction: rtl !important;  text-align: right !important;}
+  html[lang="ar"] body #comp-mlyv2cwp1 .font_0.wixui-rich-text__text, html[lang="ar"] body #comp-mlyv2cx1 .font_7.wixui-rich-text__text{ direction: rtl !important;  text-align: right !important;}
 }
