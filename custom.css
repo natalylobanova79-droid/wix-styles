@@ -532,11 +532,12 @@ html[lang="ar"] body [data-mesh-id=comp-mlyzf955inlineContent-gridContainer] > [
 html[lang="ar"] body #comp-mlyzofee{direction: rtl !important;}
 @media (min-width: 320px) and (max-width: 767px){
   html[lang="ar"] body [data-mesh-id=comp-mlyvfa4xinlineContent-gridContainer] > [id="comp-mlyvfa5b"], html[lang="ar"] body [data-mesh-id=comp-mlyvfa4xinlineContent-gridContainer] > [id="comp-mlyvfa5h4"],
-  html[lang="ar"] body [data-mesh-id=comp-mlyvfa4xinlineContent-gridContainer] > [id="comp-mlyvfa5j7"], html[lang="ar"] body [data-mesh-id=comp-mlyvfa4xinlineContent-gridContainer] > [id="comp-mlyvfa5c1"]
+  html[lang="ar"] body [data-mesh-id=comp-mlyvfa4xinlineContent-gridContainer] > [id="comp-mlyvfa5j7"], html[lang="ar"] body [data-mesh-id=comp-mlyvfa4xinlineContent-gridContainer] > [id="comp-mlyvfa5c1"],
+  html[lang="ar"] body [data-mesh-id=comp-mlyvfa4xinlineContent-gridContainer] > [id="comp-mlyvfa5i1"], html[lang="ar"] body [data-mesh-id=comp-mlyvfa4xinlineContent-gridContainer] > [id="comp-mlyvfa5k5"]
  {
-    left: 10px;
+    left: 0;
+    top: 10px;
   }
   html[lang="ar"] body #comp-mlyzofe92 .font_7.wixui-rich-text__text, html[lang="ar"] body #comp-mlyzofeb .font_7.wixui-rich-text__text, 
   html[lang="ar"] body  #comp-mlyzofec .font_7.wixui-rich-text__text {text-align: right !important; direction: rtl;}
-   html[lang="ar"] body [data-mesh-id=comp-mlyvfa4xinlineContent-gridContainer] > [id="comp-mlyvfa5i1"], html[lang="ar"] body [data-mesh-id=comp-mlyvfa4xinlineContent-gridContainer] > [id="comp-mlyvfa5k5"]{left: 0;}
 }
