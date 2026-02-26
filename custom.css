@@ -542,4 +542,8 @@ html[lang="ar"] body #comp-mlyzofee{direction: rtl !important;}
   html[lang="ar"] body #comp-mlyzofec .font_7.wixui-rich-text__text {text-align: right !important; direction: rtl;}
   html[lang="en"] body [data-mesh-id=comp-mm1w635zinlineContent-gridContainer] > [id="comp-mm1w6375"]{left: -10px;}
   html[lang="ar"] body #comp-mm1t50qj .font_0.wixui-rich-text__text, html[lang="ar"] body #comp-mm1t50qp .font_7.wixui-rich-text__text{text-align: right !important; direction: rtl;}
+  html[lang="ar"] body [data-mesh-id=comp-mm1tooboinlineContent-gridContainer] > [id="comp-mm1tl4lw"],
+  html[lang="ar"] body [data-mesh-id=comp-mm1tpu5uinlineContent-gridContainer] > [id="comp-mm1tpu6k"],
+  html[lang="ar"] body [data-mesh-id=comp-mm1tqop0inlineContent-gridContainer] > [id="comp-mm1tqop8"],
+  html[lang="ar"] body [data-mesh-id=comp-mm1trqrkinlineContent-gridContainer] > [id="comp-mm1trqs9"]{justify-self: end;}
 }
