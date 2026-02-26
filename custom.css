@@ -503,8 +503,12 @@ html[lang="ar"] body [data-mesh-id=comp-mm3j7egqinlineContent-gridContainer] > [
      width: 48px;
      height: 48px;
    }
-  html[lang="ar"] body #comp-mltb3qmr, html[lang="ar"] body #comp-mltb7oeg, html[lang="ar"] body #comp-mltba4r51{
+  html[lang="ar"] body #comp-mltb3qmr, html[lang="ar"] body #comp-mltb7oeg{
     left: 0;
+    top: 10px;
+  }
+  html[lang="ar"] body #comp-mltba4r51{
+    left: 10px;
     top: 10px;
   }
   html[lang="ar"] body #comp-mltb4l4y,  html[lang="ar"] body #comp-mltb7oei{
