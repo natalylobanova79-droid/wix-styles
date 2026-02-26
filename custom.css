@@ -488,6 +488,12 @@ html[lang="ar"] body [data-mesh-id=comp-mlth11rbinlineContent-gridContainer] > [
 html[lang="ar"] body [data-mesh-id=comp-mlth38u3inlineContent-gridContainer] > [id="comp-mlth38uc2"],
 html[lang="ar"] body [data-mesh-id=comp-mltgztusinlineContent-gridContainer] > [id="comp-mltgztv5"], 
 html[lang="ar"] body [data-mesh-id=comp-mlth275ainlineContent-gridContainer] > [id="comp-mlth275j"]{left:0;}
+
+html[lang="ar"] body [data-mesh-id=comp-mm3j6xzhinlineContent-gridContainer] > [id="comp-mltb2jem"],
+html[lang="ar"] body [data-mesh-id=comp-mm3j7l4rinlineContent-gridContainer] > [id="comp-mltb7oe8"],
+html[lang="ar"] body [data-mesh-id=comp-mm3j7egqinlineContent-gridContainer] > [id="comp-mltba4r3"]{
+   justify-self: end;
+}
 @media (min-width: 320px) and (max-width: 767px){
   html[lang="ar"] body #comp-mlt7zdyy .font_0.wixui-rich-text__text, html[lang="ar"] body #comp-mlt8b456 .font_7.wixui-rich-text__text{
     direction: rtl;
