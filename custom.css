@@ -551,3 +551,10 @@ html[lang="ar"] body [data-mesh-id=comp-mm1tooboinlineContent-gridContainer] > [
 html[lang="ar"] body [data-mesh-id=comp-mm1tpu5uinlineContent-gridContainer] > [id="comp-mm1tpu6r"],
 html[lang="ar"] body [data-mesh-id=comp-mm1tqop0inlineContent-gridContainer] > [id="comp-mm1tqopa2"],
 html[lang="ar"] body [data-mesh-id=comp-mm1trqrkinlineContent-gridContainer] > [id="comp-mm1trqse"] {left: 0;}
+html[lang="ar"] body [data-mesh-id=comp-mm1w3tgginlineContent-gridContainer] > [id="comp-mm1tv1841"], 
+html[lang="ar"] body [data-mesh-id=comp-mm1w3xp8inlineContent-gridContainer] > [id="comp-mm1tv187"], 
+html[lang="ar"] body [data-mesh-id=comp-mm1w42loinlineContent-gridContainer] > [id="comp-mm1tv1895"],
+html[lang="ar"] body [data-mesh-id=comp-mm1w44vpinlineContent-gridContainer] > [id="comp-mm1voiea"],
+html[lang="ar"] body [data-mesh-id=comp-mm1w48b5inlineContent-gridContainer] > [id="comp-mm1vrkp8"]{
+  justify-self: end;
+}
