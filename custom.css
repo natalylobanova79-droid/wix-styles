@@ -585,3 +585,8 @@ html[lang="ar"] body [data-mesh-id=comp-mm20czecinlineContent-gridContainer] > [
 html[lang="ar"] body [data-mesh-id=comp-mm20czekinlineContent-gridContainer] > [id="comp-mm20czen"],
 html[lang="ar"] body [data-mesh-id=comp-mm20teg1inlineContent-gridContainer] > [id="comp-mm20czeq7"]{left:0;}
 html[lang="ar"] body #comp-mm21jeul {direction: rtl !important; width: 190px;}
+@media (min-width: 320px) and (max-width: 767px){
+  html[lang="ar"] body #comp-mm21jeul {
+    width: 100%;
+  }
+}
