@@ -604,3 +604,9 @@ html[lang="ar"] body #comp-mm20czdi{padding-bottom: 80px;}
  html[lang="ar"] body #comp-mm1vrkr22{top:15px;}
  html[lang="ar"] body #comp-mm20czdi{padding-bottom: 24px;}
 }
+html[lang="ar"] body [data-mesh-id=comp-mm4zbnmminlineContent-gridContainer] > [id="comp-mm4z8t1p"],
+html[lang="ar"] body [data-mesh-id=comp-mm4zbvdminlineContent-gridContainer] > [id="comp-mm4zbve3"],
+html[lang="ar"] body [data-mesh-id=comp-mm4zcz2oinlineContent-gridContainer] > [id="comp-mm4zcz2v"],
+html[lang="ar"] body [data-mesh-id=comp-mm4zigqyinlineContent-gridContainer] > [id="comp-mm4zigr9"]{
+  justify-self: end;
+}
