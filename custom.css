@@ -629,4 +629,5 @@ html[lang="ar"] body [data-mesh-id=comp-mm503nkqinlineContent-gridContainer] > [
 @media (min-width: 320px) and (max-width: 767px){
   html[lang="ar"] body [data-mesh-id=comp-mm4zzf09inlineContent-gridContainer] > [id="comp-mm501y0r"],
   html[lang="ar"] body [data-mesh-id=comp-mm4zzf09inlineContent-gridContainer] > [id="comp-mm50357x"]{left: 25px;}
+  html[lang="ar"] body #comp-mm503nkx {margin-top: 0;}
 }
