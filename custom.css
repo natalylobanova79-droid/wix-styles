@@ -665,3 +665,6 @@ html[lang="ar"] body [data-mesh-id=comp-mm97vp1finlineContent-gridContainer] > [
     left: 0;
 }
 html[lang="ar"] body #comp-mm98ai43{direction: rtl !important;}
+@media (min-width: 320px) and (max-width: 767px){
+   left: 40px;
+}
