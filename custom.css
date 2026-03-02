@@ -630,5 +630,6 @@ html[lang="ar"] body [data-mesh-id=comp-mm503nkqinlineContent-gridContainer] > [
   html[lang="ar"] body [data-mesh-id=comp-mm4zzf09inlineContent-gridContainer] > [id="comp-mm501y0r"],
   html[lang="ar"] body [data-mesh-id=comp-mm4zzf09inlineContent-gridContainer] > [id="comp-mm50357x"]{left: 25px;}
   html[lang="ar"] body #comp-mm503nkx {margin-top: 0;}
-  html[lang="ar"] body #comp-mm4xqwvo .font_0.wixui-rich-text__text{text-align:right;}
+  html[lang="ar"] body #comp-mm4xqwvo .font_0.wixui-rich-text__text,
+  html[lang="ar"] body #comp-mm4xqww2 .font_7.wixui-rich-text__text{text-align:right !important;}
 }
