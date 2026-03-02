@@ -658,3 +658,9 @@ html[lang="ar"] body [data-mesh-id=comp-mm97sti9inlineContent-gridContainer] > [
 html[lang="ar"] body [data-mesh-id=comp-mm97vp1finlineContent-gridContainer] > [id="comp-mm97vp1v"]{
   justify-self: end;
 }
+html[lang="ar"] body [data-mesh-id=comp-mm97sthzinlineContent-gridContainer] > [id="comp-mm97stj5"],
+html[lang="ar"] body [data-mesh-id=comp-mm97sti5inlineContent-gridContainer] > [id="comp-mm97stjn2"],
+html[lang="ar"] body [data-mesh-id=comp-mm97sti9inlineContent-gridContainer] > [id="comp-mm97stju"],
+html[lang="ar"] body [data-mesh-id=comp-mm97vp1finlineContent-gridContainer] > [id="comp-mm97vp1z"]{
+    left: 0;
+}
