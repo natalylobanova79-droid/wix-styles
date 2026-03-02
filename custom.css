@@ -633,5 +633,9 @@ html[lang="ar"] body [data-mesh-id=comp-mm503nkqinlineContent-gridContainer] > [
   html[lang="ar"] body #comp-mm4xqwvo .font_0.wixui-rich-text__text,
   html[lang="ar"] body #comp-mm4xqww2 .font_7.wixui-rich-text__text
   html[lang="ar"] body #comp-mm4z43qg .font_2.wixui-rich-text__text,
-  html[lang="ar"] body #comp-mm4z43qj .font_7.wixui-rich-text__text{text-align:right !important;}
+  html[lang="ar"] body #comp-mm4z43qj .font_7.wixui-rich-text__text,
+  html[lang="ar"] body #comp-mm50cdmg .font_7.wixui-rich-text__text,
+  html[lang="ar"] body #comp-mm50cdmk .font_7.wixui-rich-text__text,
+  html[lang="ar"] body #comp-mm50cdmk .font_7.wixui-rich-text__text {text-align:right !important;}
 }
+html[lang="ar"] body #comp-mm50cdmo4 {direction: rtl !important;}
