@@ -494,6 +494,14 @@ html[lang="ar"] body [data-mesh-id=comp-mm3j7l4rinlineContent-gridContainer] > [
 html[lang="ar"] body [data-mesh-id=comp-mm3j7egqinlineContent-gridContainer] > [id="comp-mltba4r3"]{
    justify-self: end;
 }
+html[lang="ar"] body [data-mesh-id=comp-mm3j6xzhinlineContent-gridContainer] > [id="comp-mltb3qmr"],
+html[lang="ar"] body [data-mesh-id=comp-mm3j6xzhinlineContent-gridContainer] > [id="comp-mltb4l4y"],
+html[lang="ar"] body [data-mesh-id=comp-mm3j7l4rinlineContent-gridContainer] > [id="comp-mltb7oeg"],
+html[lang="ar"] body [data-mesh-id=comp-mm3j7l4rinlineContent-gridContainer] > [id="comp-mltb7oei"],
+html[lang="ar"] body [data-mesh-id=comp-mm3j7egqinlineContent-gridContainer] > [id="comp-mltba4r51"],
+html[lang="ar"] body [data-mesh-id=comp-mm3j7egqinlineContent-gridContainer] > [id="comp-mltba4r71"]{
+   left: -10px;
+}
 @media (min-width: 320px) and (max-width: 767px){
   html[lang="ar"] body #comp-mlt7zdyy .font_0.wixui-rich-text__text, html[lang="ar"] body #comp-mlt8b456 .font_7.wixui-rich-text__text{
     direction: rtl;
