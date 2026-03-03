@@ -696,10 +696,15 @@ html[lang="ar"] body #comp-mmae7et12 {direction: rtl !important;}
    text-align: right  !important;
  }
   html[lang="ar"] body [data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv246"],
-  html[lang="ar"] body [data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv24q"],
-  html[lang="ar"] body [data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv24x3"],
-  html[lang="ar"] body[data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv2551"]{
+  html[lang="ar"] body [data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv24q"]
+  {
     left: 30px;
+    top: 5px;
+  }
+  html[lang="ar"] body [data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv24x3"],
+  html[lang="ar"] body [data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv2551"]{
+    left: 20px;
+    top: 5px;
   }
    html[lang="ar"] body #comp-mmacstmp .font_2.wixui-rich-text__text{
     direction: rtl !important;
