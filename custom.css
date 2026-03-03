@@ -668,3 +668,6 @@ html[lang="ar"] body #comp-mm98ai43{direction: rtl !important;}
 @media (min-width: 320px) and (max-width: 767px){
    left: 40px;
 }
+html[lang="ar"] body [data-mesh-id=comp-mmacb3ruinlineContent-gridContainer] > [id="comp-mmac0k0k1"]{
+   justify-self: end;
+}
