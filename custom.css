@@ -691,4 +691,8 @@ html[lang="ar"] body #comp-mmae7et12 {direction: rtl !important;}
        justify-self: end;
       left: -20px;
     }
+ html[lang="ar"] body #comp-mmac0k0s .font_0.wixui-rich-text__text{
+   direction: rtl !important;
+   text-align: right  !important;
+ }
 }
