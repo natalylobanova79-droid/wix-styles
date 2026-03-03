@@ -696,7 +696,9 @@ html[lang="ar"] body #comp-mmae7et12 {direction: rtl !important;}
    text-align: right  !important;
  }
   html[lang="ar"] body [data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv246"],
-  html[lang="ar"] body [data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv24q"]{
+  html[lang="ar"] body [data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv24q"],
+  html[lang="ar"] body [data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv24x3"],
+  html[lang="ar"] body[data-mesh-id=comp-mmacuychinlineContent-gridContainer] > [id="comp-mmacv2551"]{
     left: 30px;
   }
 }
