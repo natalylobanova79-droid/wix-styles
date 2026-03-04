@@ -731,5 +731,7 @@ html[lang="ar"] body #comp-mmbuqytk2{direction: rtl !important;}
    html[lang="ar"] body #comp-mmbttkgq .font_2.wixui-rich-text__text{text-align:right !important;}
    html[lang="ar"] body #comp-mmbttkgt .font_7.wixui-rich-text__text{text-align:right !important;}
    html[lang="ar"] body #comp-mmbsamjh .font_7.wixui-rich-text__text{text-align:right !important;}
-   html[lang="ar"] body #comp-mmbsfg0l .font_7.wixui-rich-text__text{text-align:right !important;}
+   html[lang="ar"] body #comp-mmbsfg0l .font_7.wixui-rich-text__text,
+   html[lang="ar"] body #comp-mmbuqytf .font_7.wixui-rich-text__text,
+   html[lang="ar"] body #comp-mmbuqytj .font_7.wixui-rich-text__text{text-align:right !important;}
 }
