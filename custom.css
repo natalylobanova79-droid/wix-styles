@@ -716,3 +716,10 @@ html[lang="ar"] body #comp-mmae7et12 {direction: rtl !important;}
    }
 }
 html[lang="ar"] body #comp-mmbsamjl{direction: rtl !important;}
+html[lang="ar"] body [data-mesh-id=comp-mmbsna90inlineContent-gridContainer] > [id="comp-mmbsna9o"],
+html[lang="ar"] body [data-mesh-id=comp-mmbsna93inlineContent-gridContainer] > [id="comp-mmbsnaa5"],
+html[lang="ar"] body [data-mesh-id=comp-mmbsna96inlineContent-gridContainer] > [id="comp-mmbsnaaa3"],
+html[lang="ar"] body [data-mesh-id=comp-mmbsna98inlineContent-gridContainer] > [id="comp-mmbsnaag"]{
+  justify-self: end;
+}
+
