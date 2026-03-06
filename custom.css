@@ -782,4 +782,5 @@ html[lang="ar"] body #comp-mmemth16{direction: rtl !important; width: 180px;}
    width: 48px;
    height: 48px;
  }
+ html[lang="ar"] body [data-mesh-id=comp-mmdtgt7kinlineContent-gridContainer] > [id="comp-mmdtgt7l6"]{left: 5px;}
 }
