@@ -772,6 +772,6 @@ html[lang="ar"] body [data-mesh-id=comp-mmduc5hninlineContent-gridContainer] > [
 html[lang="ar"] body #comp-mmemth16{direction: rtl !important; width: 180px;}
 @media (min-width: 320px) and (max-width: 767px){
  html[lang="ar"] body #comp-mmdkoyxf1 .font_0.wixui-rich-text__text, html[lang="ar"] body #comp-mmdkoyxs .font_7.wixui-rich-text__text{
-   text-align: right;
+   text-align: right !important;
  }
 }
