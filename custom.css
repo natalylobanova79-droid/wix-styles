@@ -792,4 +792,10 @@ html[lang="ar"] body #comp-mmemth16{direction: rtl !important; width: 180px;}
   display: inline-block;
   text-align: right !important;
  }
+  html[lang="ar"] body #comp-mmemth123 .font_7.wixui-rich-text__text,
+  html[lang="ar"] body #comp-mmemth14 .font_7.wixui-rich-text__text,
+  html[lang="ar"] body #comp-mmemth152 .font_7.wixui-rich-text__text{ 
+    text-align: right !important;
+  }
+  html[lang="ar"] body #comp-mmemth16{width: 280px;}
 }
