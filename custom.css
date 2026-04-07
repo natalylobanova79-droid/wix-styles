@@ -801,3 +801,18 @@ html[lang="ar"] body #comp-mmemth16{direction: rtl !important; width: 180px;}
   html[lang="ar"] body #comp-mmemth16{width: 280px;}
 }
 html[lang="ar"] body #comp-mn4bbf5g a{width:190px;}
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4izhgf"],
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j45bj"],
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j5bqu"],
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j5p2s"],
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j68ap"]{
+  justify-self: end;
+}
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4izhgr"],
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j45bn"],
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j4pwk"],
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j5bqx"],
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j5p2t"],
+html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j68ar3"]{
+  left:0;
+}
