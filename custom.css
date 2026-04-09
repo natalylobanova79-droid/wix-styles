@@ -836,3 +836,7 @@ html[lang="ar"] body [data-mesh-id=comp-mnohhx9uinlineContent-gridContainer] > [
 html[lang="ar"] body [data-mesh-id=comp-lwetaysz1inlineContent-gridContainer] > [id="comp-mnok1uqc"]{
   margin-top: 130px;
 }
+@media (min-width: 320px) and (max-width: 767px){
+ html[lang="ar"] body #comp-mn4bbf54 h1{text-align: right !important;}
+ html[lang="ar"] body  #comp-mn4bbf5d p{text-align: right !important;}
+}
