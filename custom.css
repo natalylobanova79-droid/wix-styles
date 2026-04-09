@@ -841,7 +841,7 @@ html[lang="ar"] body [data-mesh-id=comp-lwetaysz1inlineContent-gridContainer] > 
  html[lang="ar"] body #comp-mn4bbf5d p{text-align: right !important;}
  html[lang="ar"] body #comp-mn4br8re {margin-top: 10px;}
  html[lang="ar"] body [data-mesh-id=comp-lwetayt21inlineContent-gridContainer] > [id="comp-mnohhx9u"]{
-   margin-top: 40px;
+   margin-top: 30px;
  }
   html[lang="ar"] body [data-mesh-id=comp-mnohhx9uinlineContent-gridContainer] > [id="comp-mn4ejqz5"],
   html[lang="ar"] body [data-mesh-id=comp-mnohhx9uinlineContent-gridContainer] > [id="comp-mn4emmeb"],
@@ -851,4 +851,8 @@ html[lang="ar"] body [data-mesh-id=comp-lwetaysz1inlineContent-gridContainer] > 
     width: 48px !important;
     height: 48px !important;
   }
+  html[lang="ar"] body [data-mesh-id=comp-lwetaysz1inlineContent-gridContainer] > [id="comp-mnok1uqc"]{
+    margin-top: 40px;
+  }
+  html[lang="ar"] body #comp-mn4f00zo p{font-sixe:18px;}
 }
