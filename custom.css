@@ -872,7 +872,5 @@ html[lang="ar"] body [data-mesh-id=comp-lwetaysz1inlineContent-gridContainer] > 
   html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j68ar3"]{
     top: 10px;
   }
-  html[lang="ar"] body #comp-mn5r0i6s p{text-align:right;}
-  html[lang="ar"] body #comp-mn5r0i6z p{text-align:right;}
-  html[lang="ar"] body #comp-mn5r0i72 p{text-align:right;}
+  html[lang="ar"] body #comp-mn5r0i6s, html[lang="ar"] body #comp-mn5r0i6z, html[lang="ar"] body #comp-mn5r0i72 p{text-align:right;}
 }
