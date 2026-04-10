@@ -865,4 +865,11 @@ html[lang="ar"] body [data-mesh-id=comp-lwetaysz1inlineContent-gridContainer] > 
   html[lang="ar"] body [data-mesh-id=comp-mnohhx9uinlineContent-gridContainer] > [id="comp-mn4eput5"]{
     margin-top: 15px;
   }
+  html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j45bn"],
+  html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j4pwk"],
+  html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j5bqx"],
+  html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j5p2t"],
+  html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j68ar3"]{
+    top: 10px;
+  }
 }
