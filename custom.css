@@ -872,6 +872,13 @@ html[lang="ar"] body [data-mesh-id=comp-lwetaysz1inlineContent-gridContainer] > 
   html[lang="ar"] body [data-mesh-id=comp-mn4jg88ginlineContent-gridContainer] > [id="comp-mn4j68ar3"]{
     top: 10px;
   }
-  html[lang="ar"] body #comp-mn5r0i6s p, html[lang="ar"] body #comp-mn5r0i6z p, html[lang="ar"] body #comp-mn5r0i72 p{text-align:right !important;}
-  html[lang="ar"] body #comp-mn5r0i73 a{direction: rtl !important;}
+  html[lang="en"] body #comp-mn5r0i6s p, html[lang="ar"] body #comp-mn5r0i6z p, html[lang="ar"] body #comp-mn5r0i72 p{text-align:right !important;}
+  html[lang="en"] body #comp-mn5r0i73 a{direction: rtl !important;}
+  html[lang="en"] body [data-mesh-id=comp-mnohhx9uinlineContent-gridContainer] > [id="comp-mn4ek6i5"] p span,
+  html[lang="en"] body [data-mesh-id=comp-mnohhx9uinlineContent-gridContainer] > [id="comp-mn4emmee"] p span,
+  html[lang="en"] body [data-mesh-id=comp-mnohhx9uinlineContent-gridContainer] > [id="comp-mn4eo4n2"] p span,
+  html[lang="en"] body [data-mesh-id=comp-mnohhx9uinlineContent-gridContainer] > [id="comp-mn4eoubi1"] p span,
+  html[lang="en"] body [data-mesh-id=comp-mnohhx9uinlineContent-gridContainer] > [id="comp-mn4eput5"] p span{
+   font-size: 18px;
+  }
 }
